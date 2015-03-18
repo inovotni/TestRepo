@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-some content
-
 some content added on Multicom
-=======
+
 some content added and pushed to GitHub
 
 some content
->>>>>>> origin/master
